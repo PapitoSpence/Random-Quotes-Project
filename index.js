@@ -1,3 +1,4 @@
+//Variable Declaration
 let animeTitle = document.querySelector(".anime__title");
 let animeCharacter = document.querySelector(".anime__character");
 let animeQuote = document.querySelector(".anime__quote");
