@@ -5,7 +5,6 @@ let btn = document.getElementById("btn");
 
 const url = "https://api.quotable.io/random";
 
-getrandomQuotes();
 
 let getQuote = () => {
   // Make a fetch request to get json data from the api
