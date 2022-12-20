@@ -20,3 +20,5 @@ let getQuote = () => {
   window.addEventListener("load", getQuote);
   btn.addEventListener("click", getQuote);
 }
+
+
