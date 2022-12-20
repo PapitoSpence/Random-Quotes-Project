@@ -7,7 +7,7 @@ const url = "https://api.quotable.io/random";
 
 
 let getQuote = () => {
-  // Make a fetch request to get json data from the api
+  // Making a fetch request to get json data from the api
   let getQuote = () => {
     fetch(url)
       .then((data) => data.json())
